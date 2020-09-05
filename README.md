@@ -44,6 +44,8 @@ To start a Django project:
 #### NOW enter 127.0.0.1:8000 in the web browser to see the Django Welcome site.
 
 
+Numpy and pandas are used for data manipulation and joblib for saving ML objects.
+
 
 
 
