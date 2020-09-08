@@ -24,3 +24,5 @@ urlpatterns = [
 ]
 
 urlpatterns += endpoints_urlpatterns
+
+
